@@ -1,0 +1,11 @@
+{
+  "name": "unblocked-hub",
+  "version": "1.0.0",
+  "description": "A hub for all my unblocked websites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Angad Tendulkar",
+  "license": "MIT"
+}
